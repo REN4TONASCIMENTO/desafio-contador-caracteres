@@ -24,9 +24,8 @@ O objetivo é permitir que o usuário digite um texto e veja em tempo real quant
 
 ## 🖼️ Prévia do Projeto
 
-```html
-<textarea id="textInput" placeholder="Digite seu texto aqui..."></textarea>
-<p>Caracteres: <span id="numAtual">0</span> / 50</p>
+
+---
 
 📁 desafio-contador-caracteres
 │
@@ -34,3 +33,12 @@ O objetivo é permitir que o usuário digite um texto e veja em tempo real quant
 ├── style.css
 └── script.js
 
+---
+
+# Clone este repositório
+git clone https://github.com/REN4TONASCIMENTO/desafio-contador-caracteres.git
+
+# Acesse a pasta do projeto
+cd desafio-contador-caracteres
+
+# Abra o arquivo index.html no navegador

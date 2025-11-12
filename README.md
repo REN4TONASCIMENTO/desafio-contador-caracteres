@@ -32,11 +32,13 @@ O objetivo é permitir que o usuário digite um texto e veja em tempo real quant
 
 ##  Estrutura de Pastas
 
+```
 📁 desafio-contador-caracteres
 │
 ├── index.html      # Estrutura principal da página
 ├── style.css       # Estilos e layout
 └── script.js       # Lógica e interatividade
+```
 
 ---
 

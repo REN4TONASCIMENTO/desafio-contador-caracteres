@@ -32,7 +32,7 @@ O objetivo é permitir que o usuário digite um texto e veja em tempo real quant
 
 ##  Estrutura de Pastas
 
-📁 desafio-contador-caracteres
+desafio-contador-caracteres/
 │
 ├── index.html
 ├── style.css

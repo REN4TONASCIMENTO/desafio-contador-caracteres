@@ -40,7 +40,7 @@ O objetivo é permitir que o usuário digite um texto e veja em tempo real quant
 
 ## Clone este repositório:
 
-git clone https://github.com/REN4TONASCIMENTO/desafio-contador-caracteres.git
-Abra o arquivo index.html em seu navegador.
-Digite qualquer texto no campo e veja a contagem de caracteres em tempo real!
+1. git clone https://github.com/REN4TONASCIMENTO/desafio-contador-caracteres.git
+2. Abra o arquivo index.html em seu navegador.
+3. Digite qualquer texto no campo e veja a contagem de caracteres em tempo real!
 

@@ -25,10 +25,12 @@ O objetivo é permitir que o usuário digite um texto e veja em tempo real quant
 ## 🖼️ Prévia do Projeto
 
 <p align="center">
-  <a href="desafio-contador-caracteres.vercel.app"><strong>Acesse a Demonstração Ao Vivo »</strong></a>
+  <a href="https://desafio-contador-caracteres.vercel.app"><strong>Acesse a Demonstração Ao Vivo »</strong></a>
 </p>
 
 ---
+
+##  Estrutura de Pastas
 
 📁 desafio-contador-caracteres
 │
@@ -38,9 +40,24 @@ O objetivo é permitir que o usuário digite um texto e veja em tempo real quant
 
 ---
 
-## Clone este repositório:
+##  Como Executar o Projeto
 
-1. git clone https://github.com/REN4TONASCIMENTO/desafio-contador-caracteres.git
-2. Abra o arquivo index.html em seu navegador.
-3. Digite qualquer texto no campo e veja a contagem de caracteres em tempo real!
+1.  **Clone o repositório:**
+    ```bash
+    git clone https://github.com/REN4TONASCIMENTO/desafio-contador-caracteres.git
+    ```
+
+2.  **Acesse a pasta do projeto:**
+    ```bash
+    cd desafio-contador-caracteres
+    ```
+
+3.  **Execute o projeto:**
+    * **Método 1 (Com VSCode Live Server):**
+        * Abra a pasta do projeto no VSCode.
+        * Clique com o botão direito no arquivo `index.html`.
+        * Selecione "Open with Live Server".
+    * **Método 2 (Sem extensões):**
+        * Apenas abra o arquivo `index.html` diretamente no seu navegador.
+
 

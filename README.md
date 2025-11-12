@@ -27,3 +27,10 @@ O objetivo é permitir que o usuário digite um texto e veja em tempo real quant
 ```html
 <textarea id="textInput" placeholder="Digite seu texto aqui..."></textarea>
 <p>Caracteres: <span id="numAtual">0</span> / 50</p>
+
+📁 desafio-contador-caracteres
+│
+├── index.html
+├── style.css
+└── script.js
+
